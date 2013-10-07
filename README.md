@@ -19,6 +19,6 @@ http://www.python.rk.edu.pl/w/p/podstawy-pygame/
 
 https://github.com/ankur0890/Pygame-Examples-For-Learning
 
-http://www.shodanproductions.com/forum/viewtopic.php?t=67&p=272#p272
+http://www.shodanproductions.com/forum/viewtopic.php?t=67&p=272#p272 - how to install PyGame with Python 2.7.2 (5) on Mac OS X
 
 Python game
