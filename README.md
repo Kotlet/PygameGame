@@ -9,6 +9,7 @@ http://docs.python.org/2/tutorial/
 http://inventwithpython.com/pygame/chapters/
 http://blog.vim.pl/2011/11/gra-izometryczna-cz-1-wstep/
 http://www.python.rk.edu.pl/w/p/podstawy-pygame/
+https://github.com/ankur0890/Pygame-Examples-For-Learning
 
 
 Python game
